@@ -1,5 +1,5 @@
 const siteMetadata = {
-    title: `Elemental`,
+    title: `Mononoke Studio`,
     siteUrl: `http://localhost`,
     capitalizeTitleOnHome: false,
     logo: `/images/logo.png`,
@@ -8,11 +8,11 @@ const siteMetadata = {
     ogImage: `/images/wall.png`,
     twoColumnWall: true,
     cookiePolicy: true,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    introTag: `WE ARE YOUR WEBFLOW DEVELOPMENT EXPERTS`,
+    description: `Creating amazing websites built in Webflow to help startups and enterprises connect with their customers, increasing conversions and enable growth, since 2019.`,
     about:
-        "Cras accumsan a lectus at tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus elementum dapibus dictum. Mauris auctor quam nec est tincidunt hendrerit. Donec pulvinar lobortis mauris. Cras vulputate ullamcorper ligula a rhoncus. Nunc venenatis elementum ligula in semper. Mauris malesuada purus nunc, et ultricies leo aliquam ac. Ut sit amet nunc id magna accumsan hendrerit in eget metus.",
-    author: `@_akzhy`,
+        "We like to think we're an eternal scrappy startup. We know how many nights you've spent rehearsing your speech, or fighting with a tiny detail that probably no one is going to notice. We've been there, we know the struggle. We build products close to our hearts, and put everything we’ve got into them, so the final products we deliver speak for themselves. Our workflow is not standard, and neither are we -- nor the brands we help create.",
+    author: `@_Igor`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
     darkmode: true,
@@ -73,11 +73,11 @@ const siteMetadata = {
     ],
     contact: {
         // leave empty ('') or false to hide form
-        api_url: "https://getform.io/f/f227a36e-096a-4c6a-9963-9f1918a85bb3",
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "hi@akzhy.com",
-        phone: "000-000-0000",
-        address: "1234 \nLocation \nLocation",
+        api_url: "https://submit-form.com/y298lXDP",
+        description: `It makes us happy to meet new people! Let’s set up a (digital) meeting to talk about you. Please fill in the form below and we’ll be in touch.`,
+        mail: "igor@mononoke.io",
+        phone: "+385 99 365-3077",
+        address: "Mihajla Pupina 4 \Varaždin \Croatia",
     },
     disqus: "elemental-netlify-com",
 }
