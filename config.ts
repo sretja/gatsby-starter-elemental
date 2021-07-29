@@ -1,5 +1,5 @@
 const siteMetadata = {
-    title: `Mononoke Studio`,
+    title: `tala.digital`,
     siteUrl: `http://localhost`,
     capitalizeTitleOnHome: false,
     logo: `/images/Igor_Emotion 1 (512 x 512).png`,
@@ -53,17 +53,17 @@ const siteMetadata = {
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "#",
+            url: "https://www.facebook.com/shop.tala.digital",
         },
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#",
+            url: "https://twitter.com/TalaDigital",
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#",
+            url: "https://www.instagram.com/tala_digital",
         },
         {
             name: "Youtube",
@@ -79,7 +79,7 @@ const siteMetadata = {
         phone: "+385 99 365-3077",
         address: "Mihajla Pupina 4 \Varaždin \Croatia",
     },
-    disqus: "elemental-netlify-com",
+    disqus: "tala-digital",
 }
 
 const beforeContactFormSubmit = data => {
