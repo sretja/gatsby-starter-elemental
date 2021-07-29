@@ -2,8 +2,8 @@ const siteMetadata = {
     title: `Mononoke Studio`,
     siteUrl: `http://localhost`,
     capitalizeTitleOnHome: false,
-    logo: `/images/logo.png`,
-    icon: `/images/icon.png`,
+    logo: `/images/Mononoke Logo White.png`,
+    icon: `/images/Mononoke Logo White.png`,
     titleImage: `/images/m14_s8mwg1.webp`,
     ogImage: `/images/m14_s8mwg1.webp`,
     twoColumnWall: true,
@@ -46,7 +46,7 @@ const siteMetadata = {
         },
         {
             name: "GitHub",
-            url: "https://github.com/akzhy/gatsby-starter-elemental",
+            url: "https://github.com/sretja",
         },
     ],
     social: [
